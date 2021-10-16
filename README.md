@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reinforcement Learning
 - 🌱 I’m currently learning Python
 
-[![](https://raw.githubusercontent.com//astrfo/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrfo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 astrfo/astrfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
