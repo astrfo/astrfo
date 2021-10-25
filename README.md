@@ -6,8 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrfo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://raw.githubusercontent.com/astrfo/astfro/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<!-- [![](https://raw.githubusercontent.com/astrfo/astfro/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 
 
