@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Jun.
-- 👀 I’m interested in Reinforcement Learning & Data Science.
+- 👀 I’m interested in Reinforcement Learning.
 - 🌱 I’m currently learning Python.
-- ✨ I'm 3rd-year university student.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrfo&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
