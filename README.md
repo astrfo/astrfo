@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Jun.
+### 👋 Hi there
 - 👀 I’m interested in Reinforcement Learning.
 - 🌱 I’m currently learning Python.
 
