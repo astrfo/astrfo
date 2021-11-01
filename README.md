@@ -1,7 +1,6 @@
 ### 👋 Hi there!
 - 👀 I’m interested in Reinforcement Learning.
 - 🌱 I’m currently learning Python.
-- ✨ I'm 20.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=astrfo&count_private=true&show_icons=true&theme=dark)
 
