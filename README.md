@@ -1,6 +1,4 @@
-### 👋 Hi there!
-- 👀 I’m interested in Reinforcement Learning.
-- 🌱 I’m currently learning Python.
+### 👋 Hi I'm Jun!
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=astrfo&count_private=true&show_icons=true&theme=dark)
 
