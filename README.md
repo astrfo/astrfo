@@ -3,4 +3,4 @@
   <h3>👋 Hi I'm Jun!</h3> <br> <samp>
   &emsp; 🌱 I am a first-year master's student. <br>
   &emsp; ✨ My favorite language is Python. <br>
-  &emsp; 👀 I'm interested in Reinforcement Learning
+  &emsp; 👀 I'm interested in Reinforcement Learning.
